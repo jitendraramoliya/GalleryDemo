@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GalleryDemo</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search photo</string>
+    <string name="title_activity_main">Gallery</string>
+    <string name="search_movie">Search photo</string>
+</resources>
